@@ -1,3 +1,10 @@
+Proje dizinine gittikten sonra yarn start ile projeyi başlatabilirsiniz. Eksik bir paket var ise hatalar kısmında belirtilen paketi yarn add PAKET_ADI şeklinde ekleyebilirsiniz.
+
+
+--------------------------
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
